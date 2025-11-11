@@ -4,7 +4,7 @@ A repository for the Cloud DevOps Engineer Expert postgraduate course 2025/2026.
 ________________________________________
 # Table of Contents
 
-## General Info(https://github.com/miniilotech/Awesome-DevSecOps/tree/dev#general-info-1)
+## General Info
 
 ## Technologies Used
 
@@ -66,7 +66,9 @@ Project is: in progress
 Monthly updates and new content will be added throughout the 2025/2026 academic year.
 ________________________________________
 # Acknowledgements
+
 This project was inspired by:
+
 •	The Cloud DevOps Engineer Expert program.
 
 ________________________________________
