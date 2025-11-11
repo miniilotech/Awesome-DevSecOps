@@ -4,19 +4,19 @@ A repository for the Cloud DevOps Engineer Expert postgraduate course 2025/2026.
 ________________________________________
 # Table of Contents
 
-General Info
+General Info[link](https://github.com/miniilotech/Awesome-DevSecOps/blob/ad6ec71c2163aa10ee34a32c98becbcaab8fcfcb/README.md?plain=1#L21)
 
-Technologies Used
+Technologies Used[link](
 
-Features
+Features[link]
 
-Usage
+Usage[link]
 
-Project 
+Project[link] 
 
-Status
+Status[link]
 
-Acknowledgements
+Acknowledgements[link]
 ________________________________________
 # General Info
 This repository documents the learning journey of the Cloud DevOps Engineer Expert postgraduate program.
