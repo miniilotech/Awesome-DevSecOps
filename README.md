@@ -2,21 +2,13 @@
 
 A repository for the Cloud DevOps Engineer Expert postgraduate course 2025/2026.
 ________________________________________
-# Table of Contents
-
-## General Info
-
-## Technologies Used
-
-## Features
-
-## Usage
-
-## Project 
-
-## Status
-
-## Acknowledgements
+- [General Info](#general-info)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Usage](#usage)
+- [Project](#project)
+- [Status](#status)
+- [Acknowledgements](#acknowledgements)
 ________________________________________
 # General Info
 
