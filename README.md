@@ -6,8 +6,7 @@ ________________________________________
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Usage](#usage)
-- [Project](#project)
-- [Status](#status)
+- [Project Status](#project-status)
 - [Acknowledgements](#acknowledgements)
 ________________________________________
 # General Info
